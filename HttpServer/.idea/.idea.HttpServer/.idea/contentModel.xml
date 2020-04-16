@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="HttpServer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DumpHttpServer.cs" t="Include" />
+        <e p="HttpServer.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HttpServer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="site" t="Include">
+          <e p="index.html" t="Include" />
+          <e p="page1.html" t="Include" />
+          <e p="page2.html" t="Include" />
+          <e p="style.css" t="Include" />
+        </e>
+      </e>
+      <e p="HttpServer.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_HttpServer.134308704.00" t="ExcludeRecursive" />
+  </component>
+</project>

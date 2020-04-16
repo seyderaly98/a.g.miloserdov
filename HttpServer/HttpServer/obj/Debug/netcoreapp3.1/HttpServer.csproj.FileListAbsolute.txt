@@ -1,0 +1,15 @@
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/HttpServer
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/HttpServer.deps.json
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/HttpServer.runtimeconfig.json
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/HttpServer.runtimeconfig.dev.json
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/HttpServer.dll
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/HttpServer.pdb
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/obj/Debug/netcoreapp3.1/HttpServer.csprojAssemblyReference.cache
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/obj/Debug/netcoreapp3.1/HttpServer.AssemblyInfoInputs.cache
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/obj/Debug/netcoreapp3.1/HttpServer.AssemblyInfo.cs
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/obj/Debug/netcoreapp3.1/HttpServer.dll
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/obj/Debug/netcoreapp3.1/HttpServer.pdb
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/site/index.html
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/site/page1.html
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/site/page2.html
+/Almat/Attractor/4BlockCSharp1/44/classwork/HttpServer/HttpServer/bin/Debug/netcoreapp3.1/site/style.css
